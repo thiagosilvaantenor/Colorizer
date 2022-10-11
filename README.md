@@ -1,5 +1,5 @@
 ## Colorizer
-Projeto para estudos sobre o tema: React Hooks 1 - UseState
+Projeto para estudos sobre o tema: React Hooks 1 - UseState, Versionamento feito com Git CLI.
 
 ## O que é:
 Aplicação em Reactjs, usando um componente com o hook UseState,<br> Colorize.js que contem o codigo principal.<br>O objetivo é fazer um quadrado preenchido por uma cor e um botão para mudar a cor desse quadrado.
